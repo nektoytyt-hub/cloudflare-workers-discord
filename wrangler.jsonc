@@ -4,7 +4,6 @@
 */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "cloudflare-worker-discord",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-07-30",
 	"observability": {
