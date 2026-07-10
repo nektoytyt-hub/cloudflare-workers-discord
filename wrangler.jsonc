@@ -8,5 +8,5 @@
 	"compatibility_date": "2025-07-30",
 	"observability": {
 		"enabled": true
-	}
+	},"name": "cloudflare-workers-discord"
 }
